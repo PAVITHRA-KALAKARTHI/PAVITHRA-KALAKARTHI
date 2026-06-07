@@ -107,7 +107,6 @@ I am an enthusiastic AI & Data Science student passionate about software develop
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PAVITHRA-KALAKARTHI&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PAVITHRA-KALAKARTHI&layout=compact)
 
 ---
 
