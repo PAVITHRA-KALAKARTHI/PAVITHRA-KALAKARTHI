@@ -103,13 +103,6 @@ I am an enthusiastic AI & Data Science student passionate about software develop
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PAVITHRA-KALAKARTHI&show_icons=true)
-
-
----
-
 ### 💡 Career Objective
 
 To start my career as a Software Engineer where I can apply my skills in Java, web development, and problem-solving to build scalable applications and continuously improve my technical expertise.
