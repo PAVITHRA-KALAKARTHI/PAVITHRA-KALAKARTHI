@@ -4,7 +4,7 @@
 
 🎓 B.Tech in Artificial Intelligence and Data Science  
 🏫 Kongu Engineering College (2023 - 2027)  
-📈 CGPA: 8.07 (Till 5th Semester)
+📈 CGPA: 8.05 (Till 6th Semester)
 
 ---
 
@@ -18,24 +18,20 @@ I am an enthusiastic AI & Data Science student passionate about software develop
 
 ### Programming Languages
 - Java
-- Python
 - C
 
 ### Web Development
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
 - React.js
 
 ### Backend Development
 - Node.js
 - Express.js
-- REST APIs
 
 ### Databases
 - SQL
-- MongoDB
 
 ### Tools & Technologies
 - Git
@@ -44,7 +40,6 @@ I am an enthusiastic AI & Data Science student passionate about software develop
 
 ### Core Concepts
 - Data Structures and Algorithms
-- Problem Solving
 
 ---
 
@@ -86,8 +81,6 @@ I am an enthusiastic AI & Data Science student passionate about software develop
 
 - Data Analysis
 - Machine Learning
-- Software Development
-- Full Stack Development
 
 ---
 
